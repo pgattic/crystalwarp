@@ -1,3 +1,4 @@
+
 # Privacy Policy
 
 This app does not use, collect, or transmit any data or information about its users. Data entered in the input fields are not stored in any way and are reset every time the app is closed. 
@@ -5,4 +6,5 @@ This app does not use, collect, or transmit any data or information about its us
 That is all. 
 
  -- Preston Corless (pgattic)
- 
+
+(Privacy policy included for mobile app publication purposes)

@@ -1,20 +1,16 @@
+# crystalwarp
 
-# CrystalWarp
+A new Flutter project.
 
-## Pokémon GSC Clock Reset Tool
+## Getting Started
 
-A simple tool used to calculate the Real-Time Clock reset code for Pokémon Gold, Silver, and Crystal.
+This project is a starting point for a Flutter application.
 
-Formula from [here](https://gamefaqs.gamespot.com/gbc/198308-pokemon-gold-version/faqs/12550).
+A few resources to get you started if this is your first Flutter project:
 
-Also see Pokémon Crystal's [source code](https://github.com/pret/pokecrystal/blob/master/engine/rtc/reset_password.asm) for more information.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
----
-
-Compiled with MIT App Inventor through use of a webview module, but could easily be done with Cordova or the like.
-
-Needs just one html file - the `index.html`.
-
-Android app can be viewed or installed [here](https://play.google.com/store/apps/details?id=appinventor.ai_pgattic.gscrtcreset).
-
-Made for CSE 100 class.
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

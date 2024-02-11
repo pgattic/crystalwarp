@@ -26,3 +26,5 @@ To develop this app, I used:
 ## Usage
 
 This app can be installed on an Android device as a sideloaded apk file. Run `flutter build apk`, assuming you have a completed Flutter Doctor setup.
+
+You can view a demonstration of this app on its [YouTube Video](https://youtu.be/ByjD2OCXXSk).

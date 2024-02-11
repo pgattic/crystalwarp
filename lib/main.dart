@@ -1,7 +1,5 @@
-//import 'package:crystalwarp/home.dart';
-import 'package:crystalwarp/map.dart';
+import 'package:crystalwarp/home.dart';
 import 'package:flutter/material.dart';
-//import 'package:google_fonts/google_fonts.dart';
 
 var globalTheme = ThemeData(
   useMaterial3: true,
@@ -60,7 +58,7 @@ class _MainScreenState extends State<MainScreen> {
           backgroundColor: Theme.of(context).colorScheme.primary,
           title: Text("Crystal Warp", style: TextStyle(color: Theme.of(context).colorScheme.onPrimary, fontWeight: FontWeight.bold),),
         ),
-        body: CustomMapWidget(),
+        body: Home(),
         bottomNavigationBar: BottomNavigationBar(
           items: const [
             BottomNavigationBarItem(icon: Icon(Icons.home), label: "Home"),
